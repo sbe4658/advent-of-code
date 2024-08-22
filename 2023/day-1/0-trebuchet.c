@@ -28,6 +28,7 @@ int main(void)
 	free(line);
 	return (0);
 }
+
 /**
  * compute_line - computes the sum of the first and last digits in @line.
  * @line: line contains the values.
